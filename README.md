@@ -1,5 +1,9 @@
+![Aung Naing Lin Profile Photo](profile.jpg)
+
 # Aung Naing Lin
 ## Food & Beverage Specialist | Personal Portfolio
+
+
 
 [![View On GitHub](https://img.shields.io/badge/View_On-GitHub-red?style=flat&logo=github)](https://github.com/aungnainglinn2001)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-red?style=flat&logo=github)](https://github.com/aungnainglinn2001)
